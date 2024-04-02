@@ -73,7 +73,7 @@ namespace currency_converter
                 // пересчет
 
                 rub = usd * k;
-                MessageBox.Show(rub.ToString("С"), "Конвертер", MessageBoxButtons.OK, MessageBoxIcon.Error);
+         
 
                 // вывод результата
                 label4.Text = usd.ToString("N") + "USD = " + rub.ToString("C", culture);
