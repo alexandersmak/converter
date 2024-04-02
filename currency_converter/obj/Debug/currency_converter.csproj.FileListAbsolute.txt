@@ -1,0 +1,10 @@
+C:\Users\alexa\source\repos\currency_converter\bin\Debug\currency_converter.exe.config
+C:\Users\alexa\source\repos\currency_converter\bin\Debug\currency_converter.exe
+C:\Users\alexa\source\repos\currency_converter\bin\Debug\currency_converter.pdb
+C:\Users\alexa\source\repos\currency_converter\obj\Debug\currency_converter.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\currency_converter\obj\Debug\currency_converter.Form1.resources
+C:\Users\alexa\source\repos\currency_converter\obj\Debug\currency_converter.Properties.Resources.resources
+C:\Users\alexa\source\repos\currency_converter\obj\Debug\currency_converter.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\currency_converter\obj\Debug\currency_converter.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\currency_converter\obj\Debug\currency_converter.exe
+C:\Users\alexa\source\repos\currency_converter\obj\Debug\currency_converter.pdb
